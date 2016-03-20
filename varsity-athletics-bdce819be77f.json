@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "varsity-athletics",
+  "private_key_id": "bdce819be77f451443da2e7cb457f6893c6cf9e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCziJWUXT87HNBl\nTz6+DpkfHVSnhxOMdKJ5M4I4a7a1EH/MoEIJJXengUB0nPDWAvaWJ9ytcaZvbogR\nm8sBuFZVtf9wQFdPtW4mSmo7YJ+iPNQT3mho11yb55s9PT0ExLu7ugMBap+9ojqq\nwZYwUBbFipbsgbWs1RCXCw4FlProZ9w6eAfBMNYkLrdNm8sxbHwGm8aSGCxI3XKd\ngyUmuaug8dOWxfxNcvwofBzU7FOKhmATc3g8TthXaYvisQtBm0y6g7jx19WqKrEr\nKkhEZk2z8uboVD0cf4c5XH/rHaaiopBRE6IwRTN8E+OTLUVArMMGx1kiQakAmUqr\n/yL/x885AgMBAAECggEATb9fb4G2KUZAJS9dL3co7mWITIhdedzko3If+YkD9YNw\npM/d6RIVsC90F0wDq9paqQoYMfBesDEAsgdysYr/sFyBgz4J0ZXzXpepS497cgm/\nmd8d/hENpOJ2wt1rOE5uMkzKkml3ReskVuBAxylXwzJSS5eccn1OkuqRpu8ufUgJ\neUD4fb6D4m9LsYKsyryGpEuaoe+YqHgg8m6mgjj5t+hWzwUFikt2Rk8bF+8B2vfq\nn8hxYpOHJxGosAtuoNNtRK26UqX3Zyt2WpZiOEAJX0eHzm57Rr9jifhy9BpbGZkd\nAuXzGbi/EBos2VB+s6BvgMubfzZzxZKhzEUuiPqwgQKBgQD24hZz5LbbJcdaMkyV\n3hZvXWPLNNFlSGDkcfrJ/uN92WWiaFz56s1txR+lB8gO4PTR1zTJG3qvvAJTC4t1\nLrjp1jUdTw5v+MgaUhfwqahUCXRLC//oHsNS+SKZt0BUgO+Ys0q47v8QvJ7nhMq/\nqGeo7MnNbAcJasqXS2zvN+5QqQKBgQC6Kc5oWcr+VOezZ2ZZ6Ezvi7GQkf87wfqi\ng65N416b0ST+2IWrkqbZl0cPQf8UhbBIJIfFyV7WHNf3eWrtRNikyreOmTIaMXsl\ndKA/mvAvRQvRadft3LA/9vugAMfjHxchU0Ub83VyvVpnGkCR6knj9e+dtWZMhxeL\nOHV097VUEQKBgQDWj8VNsZ+NtDaeWAqhUSOUY8jAKUY2zQGQaNK5zPDvRgoDbMop\nVXx2AxSue6XN8Io0+ODiSySEKFSo0ebAz/tbFpSQxU1Z2RAnd+NggEJPzuun8WTV\n2i6NJQKCL3YUOv6AaontUaCRbix4L7t5eCWm9SupgVJYR9yMQrwI50YSCQKBgCxs\ng4PlQYqVikEGgKcdxxY2uKWuIUEKVhvn3nVZt57pNrHVy3gY49XywpNChXNJP7rH\ndNre5dGkSmkUwU5jamtQsKLHrewQOLnEbeUfvQcaq+pKHqv1SN3Ku1sANLLfHW7n\nZwt3emRqCSOnYRcw2HccnhR9UC8c4aJoU6cY4V1xAoGAfxj59meI7y6zKddVEYkz\nZ/hre65ZjH/9eipKrOdQJgfhHNfUNhdo+q9rRLUrVilsZqDBTfZovqpU4BRQ1YeY\nK+ou9NClNgd5GYZXHAzUEaaOPeNL3ByHeL7ZV2pnW1MxG0ymSWMsfb2xayypVvgq\nPSfIwdL5caymGvW71HfLbtg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "opentrack@varsity-athletics.iam.gserviceaccount.com",
+  "client_id": "117456008477610936730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/opentrack%40varsity-athletics.iam.gserviceaccount.com"
+}
