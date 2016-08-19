@@ -1,13 +1,13 @@
 import json
 import gspread
-from oauth2client.client import SignedJwtAssertionCredentials
+from oauth2client.service_account import ServiceAccountCredentials
 from pprint import pprint
 
 def run():
-	json_key = json.load(open('varsity-athletics-bdce819be77f.json'))
+	
 	scope = ['https://spreadsheets.google.com/feeds']
 
-	credentials = SignedJwtAssertionCredentials(json_key['client_email'], json_key['private_key'].encode(), scope)
+	credentials = ServiceAccountCredentials.from_json_keyfile_name('varsity-athletics-bdce819be77f.json', scope)
 
 	gc = gspread.authorize(credentials)
 
